@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        window.onload = function (){
+            //现在需要我们使用js代码来创建html标签，并显示在页面上
+            //标签的内容就是 <div> 过个 </div>
+            var divObj = document.createElement("div");
+            alert(divObj);
+
+            var tetxNodeObj = document.createTextNode("uoww");
+            divObj.appendChild(tetxNodeObj);
+
+            // divObj.innerHTML = "过个111";//但是，还是只是在内存中
+
+            document.body.appendChild(divObj);
+        }
+
+
+
+    </script>
+</head>
+<body>
+
+
+</body>
+</html>
