@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01_html_css/01_html_css.iml" filepath="$PROJECT_DIR$/01_html_css/01_html_css.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_javaScript/02_javaScript.iml" filepath="$PROJECT_DIR$/02_javaScript/02_javaScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-jQuery/03-jQuery.iml" filepath="$PROJECT_DIR$/03-jQuery/03-jQuery.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
     </modules>
   </component>
